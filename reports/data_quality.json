@@ -1,0 +1,12 @@
+{
+  "source_file": "bank-additional-full.csv",
+  "sha256": "233e260d5d1d506a2c10381da5b8c2f75f2c08d1b373ca7b825e39ebe1bd30df",
+  "rows": 41188,
+  "columns": 21,
+  "null_cells": 0,
+  "duplicate_full_rows": 12,
+  "positive_n": 4640,
+  "prevalence": 0.11265417111780131,
+  "duplicates_action": "Preserved: no customer ID; identical attributes may represent distinct observations. Original order retained.",
+  "unknown_cells": 12718
+}
