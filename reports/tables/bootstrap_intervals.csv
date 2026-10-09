@@ -1,0 +1,6 @@
+metric,lower_95,upper_95,method,replications
+roc_auc,0.6020015830689874,0.6280706678872995,row bootstrap; conditional/descriptive,250
+average_precision,0.4274093976015906,0.4691159678317433,row bootstrap; conditional/descriptive,250
+brier,0.2234238020155099,0.23730354813259805,row bootstrap; conditional/descriptive,250
+precision_at_10pct,0.5412621359223301,0.6080097087378641,row bootstrap; conditional/descriptive,250
+lift_at_10pct,1.7660485438990101,1.972628372901616,row bootstrap; conditional/descriptive,250

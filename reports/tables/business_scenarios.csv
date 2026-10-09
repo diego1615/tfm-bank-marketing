@@ -1,0 +1,7 @@
+policy,contacts,observed_acceptances_in_selected,precision_selected,proxy_profit,benefit_assumption,cost_assumption
+Nadie,0,0.0,0.0,0.0,100.0,5.0
+Todos,8238,2540.0,0.3083272638990046,212810.0,100.0,5.0
+Top 10% (presupuesto fijo),824,473.0,0.5740291262135923,43180.0,100.0,5.0
+Umbral validado,8190,2517.0,0.30732600732600734,210750.0,100.0,5.0
+Umbral teórico coste/beneficio,8204,2526.0,0.3078985860555826,211580.0,100.0,5.0
+Aleatorio 10% (valor esperado),824,254.0616654527798,0.3083272638990046,21286.16654527798,100.0,5.0
